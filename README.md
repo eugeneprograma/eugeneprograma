@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I´m Eugenio Vera</h1>
+<h1 align="center">Hola 👋,I´m Eugenio Vera</h1>
 <h3 align="center">Finance Engineer with passion to learn programming</h3>
 
 - 🔭 I’m currently working on **my own projects**
